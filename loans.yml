@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to FawadBank loans related local APIs "
+  message: "Welcome to NehaBank loans related local APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@eazybank.com"
